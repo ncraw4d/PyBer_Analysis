@@ -16,4 +16,4 @@ The results show a significant difference between the three city types. The urba
 
 ##### Pyber Business Recommendations
 
-
+The data shows there are more ride share drivers in the urban cities than total rides. There were 780 more drivers than customers using the service whereas in both rural and suburban cities there were more rides than total drivers. PyBer should implement marketing in the urban cities to draw in more customers to use the ride share service. PyBer should also reduce the number of drivers in urban cities so their drivers can earn more since the data shows 780 drivers did not earn anything. As total rides increase in the urban cities, Pyber can increase the amount of drivers there. Since ride share is used less often in the rural and suburban cities, PyBer all ready has less drivers than rides so PyBer does not need to make any changes in those two areas. 
